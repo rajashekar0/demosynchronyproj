@@ -7,6 +7,7 @@ public class Test1
 	{
 		System.out.println("hello happy weekend");
 		System.out.println("Next class will be saturday");
+		Syster.out.println("Waiting for the next session")
 
 	}
 
