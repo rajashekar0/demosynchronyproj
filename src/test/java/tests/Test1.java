@@ -8,6 +8,8 @@ public class Test1
 		System.out.println("hello happy weekend");
 		System.out.println("Next class will be saturday");
 		System.out.println("Waiting for the next session");
+		
+		System.out.println("next weekend session is jenkins will start");
 
 	}
 
